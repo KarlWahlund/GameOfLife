@@ -1,0 +1,14 @@
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\bin\Debug\net7.0\GameOfLife.exe
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\bin\Debug\net7.0\GameOfLife.deps.json
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\bin\Debug\net7.0\GameOfLife.runtimeconfig.json
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\bin\Debug\net7.0\GameOfLife.dll
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\bin\Debug\net7.0\GameOfLife.pdb
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.AssemblyInfo.cs
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.dll
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\refint\GameOfLife.dll
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.pdb
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\GameOfLife.genruntimeconfig.cache
+C:\Users\Karl.wahlund\desktop\Programering2\GameOfLife\obj\Debug\net7.0\ref\GameOfLife.dll
